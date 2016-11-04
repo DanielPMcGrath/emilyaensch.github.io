@@ -388,7 +388,7 @@ header.hero {
   z-index: 5;
   width: 100%;
   height: 100%;
-  background-image: url('../images/hospital.jpg');
+  background-image: url('../images/Hospital.jpg');
   background-repeat: no-repeat;
   background-position: center bottom;
   -webkit-background-size: cover;
@@ -423,7 +423,7 @@ header.hero .pattern-overlay {
   z-index: 15;
   width: 100%;
   height: 100%;
-  background-image: url('../images/hospital.png');
+  background-image: url('../images/Hospital.png');
   background-repeat: repeat;
 }
 
